@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "name": "athit",
+      "password": "password1",
+      "post": "idpost1",
+      "id": 1
+    },
+    {
+      "name": "surasit",
+      "password": "1234",
+      "post": "idpost2",
+      "id": 2
+    },
+    {
+      "name": "affal",
+      "password": "password1",
+      "post": "idpost3",
+      "id": 3
+    },
+    {
+      "name": "pacharapol",
+      "password": "9999999",
+      "post": "idpost5",
+      "id": 5
+    }
+  ]
+}
